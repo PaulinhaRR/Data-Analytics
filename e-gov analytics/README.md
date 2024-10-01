@@ -1,6 +1,22 @@
-# Análise Econômica e Social - Dicionário de Dados
+# Análise Econômica e Social 
+
+Para este trabalho não vamos considerar um país específico a fim de evitar qualquer 
+tipo de polêmica ou viés. Nosso objetivo aqui é estudar e aplicar análise de dados. Portanto, 
+este projeto se aplica a qualquer país
+
+## Principais objetivos:
+- 1. Em que ano o país teve um alto crescimento do PIB Per Capita?
+- 2. Qual ano teve as maiores despesas com saúde?
+- 3. Qual ano teve os maiores gastos com educação?
+- 4. Como a receita do governo se correlaciona com a despesa do governo?
+- 5. Como a educação e a saúde se correlacionam com o crescimento do PIB?
+- 6. Como os gastos do governo com educação e saúde afetam o crescimento do PIB?
+- 7. Com base na análise quais são as recomendações aos governantes e gestores
 
 Este notebook descreve o dicionário de dados utilizado para a análise econômica e social. Abaixo estão as variáveis disponíveis, com suas respectivas descrições.
+
+
+
 
 ## Dicionário de Dados
 
@@ -26,3 +42,7 @@ Este notebook descreve o dicionário de dados utilizado para a análise econômi
 ## Observações
 - Os dados acima são utilizados para realizar análises comparativas de crescimento econômico e avaliação de políticas públicas de saúde e educação.
 - Cada variável representa um indicador importante que reflete o desempenho econômico e social dos países ao longo do tempo.
+
+
+
+
