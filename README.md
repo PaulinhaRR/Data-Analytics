@@ -12,9 +12,9 @@ Este repositório contém diferentes projetos de análise de dados que explorei.
 
 - **Projeto 2: E-gov Analytics**
   
-  Python: Principal linguagem para manipulação e análise de dados.
-  Pandas e Numpy: Para manipulação de dados.
-  Scikit-learn: Para modelagem preditiva e validação de modelos.
-  Matplotlib e Seaborn: Biblioteca para visualição de dados e análise exploratória.
+  Python: Principal linguagem para manipulação e análise de dados.  
+  Pandas e Numpy: Para manipulação de dados.  
+  Scikit-learn: Para modelagem preditiva e validação de modelos.  
+  Matplotlib e Seaborn: Biblioteca para visualição de dados e análise exploratória.  
     
  
